@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://GTQin77.github.io/al-folio/sitemap.xml
+Sitemap: https://GTQin77.github.io/sitemap.xml
